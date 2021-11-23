@@ -11,7 +11,7 @@ Since then, my life changed completely! Everyday I wake up grateful for the oppo
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 💬 Ask me about anything. I love to meet new people and to exchange ideas
 - 📫 How to reach me: 
-    fycorsak@gmail.com
+    fycorsak@gmail.com \
     https://www.linkedin.com/in/felipe-sakuma-0b1125186/
 - 😄 Pronouns: he/his
 
