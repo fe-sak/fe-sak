@@ -5,7 +5,7 @@ After working in the aerospace industry, where I had the opportunity to develop 
 
 Since then, my life changed completely! Everyday I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
 
-- 🔭 I’m currently working on a full stack e-commerce web page, usign react and express!
+- 🔭 I’m currently working on a full stack e-commerce web page, usign react, node.js and express
 - 🌱 I’m currently learning back-end development with express and mongodb
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
