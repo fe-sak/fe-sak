@@ -1,7 +1,7 @@
 ### Hello! I'm Felipe 👋
 
 
-After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircrafts, I finally found my passion in software development.
+After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircraft, I finally found my passion in software development.
 
 Since then, my life changed completely! Everyday I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
 
