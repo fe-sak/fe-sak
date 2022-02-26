@@ -3,7 +3,7 @@
 
 After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircraft, I finally found my passion in software development.
 
-Since then, my life changed completely! Everyday I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
+Since then, my life changed completely! Every day I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
 
 - 🔭 I’m currently working on a full stack e-commerce web page, usign react, node.js and express
 - 🌱 I’m currently learning back-end development with express and mongodb
