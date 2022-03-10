@@ -9,7 +9,7 @@ Since then, my life changed completely! Every day I wake up grateful for the opp
 - 🌱 I’m currently learning back-end development with PostgreSQL
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
-- 💬 Ask me about anything. I love to meet new people and to exchange ideas
+- 💬 Ask me about anything. I love to meet new people and talk ideas
 - 📫 How to reach me: \
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fycorsak@gmail.com)](mailto:fycorsak@gmail.com)
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-sakuma-0b1125186/)](https://www.linkedin.com/in/felipe-sakuma/)
