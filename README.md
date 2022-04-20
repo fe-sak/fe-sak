@@ -6,7 +6,7 @@ After working in the aerospace industry, where I had the opportunity to develop 
 Since then, my life changed completely! Every day I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
 
 - 🔭 I’m currently working on a full stack e-commerce web page, usign react, node.js and express
-- 🌱 I’m currently learning back-end development with PostgreSQL
+- 🌱 I’m currently learning typescript and ORM with prisma
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 💬 Ask me about anything. I love to meet new people and talk ideas
@@ -18,6 +18,7 @@ Since then, my life changed completely! Every day I wake up grateful for the opp
 ## Skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,6 +29,7 @@ Since then, my life changed completely! Every day I wake up grateful for the opp
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
