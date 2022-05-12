@@ -5,8 +5,8 @@ After working in the aerospace industry, where I had the opportunity to develop 
 
 Since then, my life changed completely! Every day I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
 
-- 🔭 I’m currently working on a full stack e-commerce web page, usign react, node.js and express
-- 🌱 I’m currently learning typescript and ORM with prisma
+- 🔭 I’m currently working on a full stack web page simulating the famouos game of life simulation from John Conway
+- 🌱 I’m currently learning  docker and CI/CD
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 💬 Ask me about anything. I love to meet new people and talk ideas
@@ -37,6 +37,7 @@ Since then, my life changed completely! Every day I wake up grateful for the opp
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ## GitHub Stats:
 <a href="https://github.com/Gurupreet">
