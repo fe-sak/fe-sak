@@ -1,15 +1,14 @@
 ### Hello! I'm Felipe 👋
 
-
 After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircraft, I finally found my passion in software development.
 
-Since then, my life changed completely! Every day I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community 	:heart:
+Since then, my life has changed completely! Every day I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community :heart:
 
-- 🔭 I’m currently working on a full stack web page simulating the famouos game of life simulation from John Conway
+- 🔭 I’m currently working on my Game of Life project (a full stack SPA with react, typescript, node, prisma, and more)
 - 🌱 I’m currently learning  docker and CI/CD
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
-- 💬 Ask me about anything. I love to meet new people and talk ideas
+- 💬 Ask me about anything. I love to meet new people and talk about ideas
 - 📫 How to reach me: \
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fycorsak@gmail.com)](mailto:fycorsak@gmail.com)
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-sakuma-0b1125186/)](https://www.linkedin.com/in/felipe-sakuma/)
