@@ -30,7 +30,7 @@ Since then, my life has changed completely! Every day I wake up grateful for the
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest%logoColor=C53C14)&nbsp;
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
