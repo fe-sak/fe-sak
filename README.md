@@ -32,6 +32,9 @@ Since then, my life has changed completely! Every day I wake up grateful for the
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=C53C14)&nbsp;
 
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat&logo=eslint&logoColor=3e2c9a)
+![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=prettier)
+
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
