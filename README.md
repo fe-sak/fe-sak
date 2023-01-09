@@ -2,10 +2,7 @@
 
 After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircraft, I finally found my passion in software development.
 
-Since then, my life has changed completely! Every day I wake up grateful for the opportunity to learn more about IT and to meet new people from this amazing community :heart:
-
-- 🔭 I’m currently working on my Game of Life project (a full stack SPA with react, typescript, node, prisma, and more)
-- 🌱 I’m currently learning docker and CI/CD
+- 🌱 I’m currently learning Java and Azure
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 💬 Ask me about anything. I love to meet new people and talk about ideas
