@@ -37,13 +37,3 @@ After working in the aerospace industry, where I had the opportunity to develop 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-
-## GitHub Stats:
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-sak&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fe-sak&show_icons=true&theme=dracula&line_height=27" alt="**Felipe Sakuma** github stats"/>
-</a>
