@@ -24,6 +24,7 @@ After working in the aerospace industry, where I had the opportunity to develop 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs&logoColor=e0234e)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)&nbsp;
