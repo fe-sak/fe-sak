@@ -2,7 +2,7 @@
 
 After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircraft, I finally found my passion in software development.
 
-- 🌱 I’m currently learning Java and Azure
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 💬 Ask me about anything. I love to meet new people and talk about ideas
@@ -15,6 +15,7 @@ After working in the aerospace industry, where I had the opportunity to develop 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
@@ -23,6 +24,7 @@ After working in the aerospace industry, where I had the opportunity to develop 
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=spring)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs&logoColor=e0234e)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)&nbsp;
