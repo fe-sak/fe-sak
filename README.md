@@ -2,7 +2,7 @@
 
 Junior software developer and computer science student (evening classes)
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently deep diving into c#
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 💬 Ask me about anything. I love to meet new people and talk about ideas
