@@ -2,7 +2,6 @@
 
 Junior software developer and computer science student (evening classes)
 
-- 🌱 I’m currently deep diving into c#
 - 🤔 As a junior, I'm looking for every possible way to get better at coding. Any feedback is appreciated!
 - 📫 How to reach me: \
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fycorsak@gmail.com)](mailto:fycorsak@gmail.com)
