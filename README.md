@@ -13,6 +13,7 @@ After working in the aerospace industry, where I had the opportunity to develop 
 
 ## Skills:
 
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)&nbsp;
