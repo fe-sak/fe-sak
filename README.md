@@ -1,6 +1,6 @@
 ### Hello! I'm Felipe 👋
 
-After working in the aerospace industry, where I had the opportunity to develop electrical solutions for aircraft, I finally found my passion in software development.
+Junior software developer and computer science student (evening classes)
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on anything I can help with!
